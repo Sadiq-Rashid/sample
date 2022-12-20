@@ -1,3 +1,12 @@
+
+# Dockerizing a React App
+Docker is a containerization tool used to speed up the development and deployment processes. If you’re working with microservices, Docker makes it much easier to link together small, independent services. It also helps to eliminate environment-specific bugs since you can replicate your production environment locally.
+
+This tutorial demonstrates how to Dockerize a React app using the Create React App generator. We’ll specifically focus on-
+
+Setting up a development environment with code hot-reloading
+Configuring a production-ready image using multistage builds
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
